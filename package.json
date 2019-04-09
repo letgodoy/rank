@@ -24,7 +24,7 @@
     "eject": "react-scripts eject",
     "deploy": "react-scripts build && gh-pages -d build"
   },
-  "homepage": "https://letgodoy.github.io/ranking",
+  "homepage": "https://letgodoy.github.io/rank",
   "eslintConfig": {
     "extends": "react-app"
   },
